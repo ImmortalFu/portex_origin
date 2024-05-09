@@ -1,0 +1,6 @@
+if SHIELD_PORTEX_ORIGIN
+
+config ZMK_KEYBOARD_NAME
+    default"portex_origin"
+
+endif
